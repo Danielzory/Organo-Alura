@@ -1,0 +1,17 @@
+.footerEnd {
+    background: #6278F7;
+    color: #FFF;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footerEnd ul li {
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.footerEnd ul li:last-child {
+    margin-right: 0;
+}
